@@ -13,6 +13,6 @@ Members
 
 - Jungmin Lee 
     - M.S. Student / E-mail: jungmin9195@korea.ac.kr
-    - Topic: Dynamic Threshold
+    - Topic: Time Series Analusis, Uncertainty Quantification
 
 ---
