@@ -16,7 +16,3 @@ Members
     - Topic: Dynamic Threshold
 
 ---
-
-# Week 1 
-
-- Jungin Kim 
