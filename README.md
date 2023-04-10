@@ -13,6 +13,6 @@ Members
 
 - Jungmin Lee 
     - M.S. Student / E-mail: jungmin9195@korea.ac.kr
-    - Topic: Time Series Analusis, Uncertainty Quantification
+    - Topic: Time Series Analsis, Uncertainty Quantification
 
 ---
