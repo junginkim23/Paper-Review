@@ -2,7 +2,7 @@
 ---
 
 - **Reinforcement Learning** 
-    - **[2018, ICML]** QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning [[paper]](https://paperswithcode.com/paper/qmix-monotonic-value-function-factorisation) [[review]](https://github.com/junginkim23/Paper-Review/blob/master/JunginKim/Review/%5B2018%2CICML%5DQMIX%20Monotonic%20Value%20Function%20Factorisation%20for%20Deep%20Multi%20Agent%20Reinforcement%20Learning%20.pdf)
+    - **[2018, ICML]** QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning [[paper]](https://paperswithcode.com/paper/qmix-monotonic-value-function-factorisation) [[review]](https://github.com/junginkim23/Paper-Review/blob/master/JunginKim/Review/%5B2018%2CICML%5D%20QMIX%20Monotonic%20Value%20Function%20Factorisation%20for%20Deep%20Multi%20Agent%20Reinforcement%20Learning%20.pdf)
     - **[2023, arXiv]** A Survey of Meta-Reinforcement Learning [[paper]](https://arxiv.org/abs/2301.08028) [[review]](https://github.com/junginkim23/Paper-Review/blob/master/JunginKim/Review/%5B2023%2CarXiv%5D%20A%20Survey%20of%20Meta-Reinforcement%20Learning.pdf)
 
 
