@@ -7,5 +7,5 @@
 - Time series semi-supervised learning 
     - SMATE: Semi-Supervised Spatio-Temporal Representation learning on Multivariate Time Series [[paper]](https://ieeexplore.ieee.org/abstract/document/9679137)[[review]](https://github.com/junginkim23/Paper-Review/blob/master/JungminLee/Reviews/%5B2021%5D%20SMATE.pdf)
 - Anomaly Detection
-    - Use of Uncertainty with Autoencoder Neural Networks for Anomaly Detection [[paper]](https://hal.science/hal-03233919)[[review]]
+    - Use of Uncertainty with Autoencoder Neural Networks for Anomaly Detection [[paper]](https://hal.science/hal-03233919)[[review]](https://github.com/junginkim23/Paper-Review/blob/master/JungminLee/Reviews/%5B2021%5D%20Use%20of%20Uncertainty%20with%20Autoencoder%20Neural%20Networks%20for%20Anomaly%20Detection.pdf)
 ---
