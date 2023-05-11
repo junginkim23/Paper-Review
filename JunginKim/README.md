@@ -7,5 +7,7 @@
 
 
 - **Self-Supervised Learning** 
+    - **[2020, NeurIPS]** Bootstrap Your Own Latent A New Approach to Self_Supervised_Learning [[paper]]() [[review]]()
     - **[2022, ICLR]** Self-Supervised Learning is More ROBUST to Dataset Imbalance [[paper]](https://arxiv.org/abs/2110.05025) [[review]](https://github.com/junginkim23/Paper-Review/blob/master/JunginKim/Review/%5B2022%2CICLR%5D%20Self-Supervised%20Learning%20is%20More%20Robust%20to%20Dataset%20Imbalance.pdf)
+    
 ---
