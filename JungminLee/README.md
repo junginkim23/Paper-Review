@@ -9,5 +9,5 @@
 - Anomaly Detection
     - Use of Uncertainty with Autoencoder Neural Networks for Anomaly Detection [[paper]](https://hal.science/hal-03233919)[[review]](https://github.com/junginkim23/Paper-Review/blob/master/JungminLee/Reviews/%5B2021%5D%20Use%20of%20Uncertainty%20with%20Autoencoder%20Neural%20Networks%20for%20Anomaly%20Detection.pdf)
 - Semi-supervised learning - Uncertainty
-    - In Defense of Pseudo-Labeling: An Uncertainty-Aware Pseudo-label Selection Framewrok for Semi-Supervised Learning [[paper]](https://arxiv.org/abs/2101.06329)[[review]]  
+    -  [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-93034-3_46)[[review]]  
 ---
