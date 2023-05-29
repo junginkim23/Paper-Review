@@ -8,6 +8,7 @@
 
 - **Self-Supervised Learning** 
     - **[2020, CVPR]** Momentum Contrast for Unsupervised Visual Representation Learning [[paper]](https://arxiv.org/abs/1911.05722) [[review]](https://github.com/junginkim23/Paper-Review/blob/master/JunginKim/Review/%5B2020%2CCVPR%5D%20Momentum%20Contrast%20for%20Unsupervised%20Visual%20Representation%20Learning.pdf) 
+    - **[2020, ICML]** A Simple Framework for Contrastive Learning of Visual Representations [[paper]]() [[review]]()
     - **[2020, NeurIPS]** Bootstrap Your Own Latent A New Approach to Self Supervised Learning [[paper]](https://arxiv.org/abs/2006.07733) [[review]](https://github.com/junginkim23/Paper-Review/blob/master/JunginKim/Review/%5B2020%2CNeurIPS%5D%20Bootstrap%20Your%20Own%20Latent%20A%20New%20Approach%20to%20Self_Supervised_Learning.pdf)
     - **[2022, ICLR]** Self-Supervised Learning is More ROBUST to Dataset Imbalance [[paper]](https://arxiv.org/abs/2110.05025) [[review]](https://github.com/junginkim23/Paper-Review/blob/master/JunginKim/Review/%5B2022%2CICLR%5D%20Self-Supervised%20Learning%20is%20More%20Robust%20to%20Dataset%20Imbalance.pdf)
     
