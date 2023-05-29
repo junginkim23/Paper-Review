@@ -11,4 +11,10 @@
     - **[2022, arXiv]** Negative Sampling for Contrastive Learning: A Review [[paper]](https://arxiv.org/pdf/2206.00212.pdf) [[review]](https://github.com/junginkim23/Paper-Review/blob/master/SungsuKim/Review/%5B2022%5D%20Negative%20Sampling%20for%20Contrastive%20Representation%20Learning-%20A%20Review.pdf)
     - **[2022, WACV]** Boosting Contrastive Self-Supervised Learning with False Negative Cancellation [[paper]](https://openaccess.thecvf.com/content/WACV2022/papers/Huynh_Boosting_Contrastive_Self-Supervised_Learning_With_False_Negative_Cancellation_WACV_2022_paper.pdf) [[review]](https://github.com/junginkim23/Paper-Review/blob/master/SungsuKim/Review/%5B2022%5D%20Boosting%20Contrastive%20Self-Supervised%20Learning%20with%20False%20Negative%20Cancellation.pdf)
 
+- **Self-supervised Learning**
+    - **[2021, CVPR]** Exploring Simple Siamese Representation Learning [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.pdf) [[review]](https://github.com/junginkim23/Paper-Review/blob/master/SungsuKim/Review/%5B2021%5D%20Exploring%20Simple%20Siamese%20Representation%20Learning.pdf)
+
+- **Scene Text Recognition + Self-supervised Lerning**
+    - **[2022, ACMMM]** Reading and Writing: Discriminative and Generative Modeling for Self-Supervised Text Recognition [[paper]](https://dl.acm.org/doi/pdf/10.1145/3503161.3547784) [[review]](https://github.com/junginkim23/Paper-Review/blob/master/SungsuKim/Review/%5B2022%5D%20Reading%20and%20Writing-%20Discriminative%20and%20Generative%20Modeling%20for%20Self-Supervised%20Text%20Recognition.pdf)
+
 ---
