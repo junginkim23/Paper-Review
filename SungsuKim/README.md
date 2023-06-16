@@ -3,6 +3,7 @@
 
 - **Super Resolution**
     - **[2017, CVPR]** Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.pdf) [[review]](https://github.com/junginkim23/Paper-Review/blob/master/SungsuKim/Review/%5B2017%5D%20Photo-Realistic%20Single%20Image%20Super-Resolution%20Using%20a%20Generative%20Adversarial%20Network.pdf)
+    - **[2021, ICCV]** Designing a Practical Degradation Model for Deep Blind Image Super-Resolution [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Designing_a_Practical_Degradation_Model_for_Deep_Blind_Image_Super-Resolution_ICCV_2021_paper.pdf) [[review]](https://github.com/junginkim23/Paper-Review/blob/master/SungsuKim/Review/%5B2021%5D%20Designing%20a%20Practical%20Degradation%20Model%20for%20Deep%20Blind%20Image%20Super-Resolution.pdf)
 
 - **Domain Adaptation**
     - **[2018, CVPR]** Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.pdf) [[review]](https://github.com/junginkim23/Paper-Review/blob/master/SungsuKim/Review/%5B2018%5D%20Maximum%20Classifier%20Discrepancy%20for%20Unsupervised%20Domain%20Adaptation.pdf)
