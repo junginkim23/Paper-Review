@@ -13,5 +13,6 @@
 - Semi-Supervised Learning Uncertainty
     - In Defense of Pseudo-Labeling: An Uncertainty-aware Pseudo-Label Selection Framewrok for Semi-Supervised Learning[[paper]](https://arxiv.org/abs/2101.06329)[[review]]
 - NLP
-    - BART: Denoising sequence-to-sequence pre-training for natural language generation[[paper]](https://arxiv.org/abs/1910.13461)[[review]](https://github.com/junginkim23/Paper-Review/blob/master/JungminLee/Reviews/%5B2019%5D%20BART.pdf)  
+    - BART: Denoising sequence-to-sequence pre-training for natural language generation[[paper]](https://arxiv.org/abs/1910.13461)[[review]](https://github.com/junginkim23/Paper-Review/blob/master/JungminLee/Reviews/%5B2019%5D%20BART.pdf)
+    - LLaMA: Open and Efficient Foundation Language Models[[paper]](https://arxiv.org/abs/2302.13971)[[review]]
 ---
