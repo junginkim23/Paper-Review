@@ -13,7 +13,7 @@
     - **[2022, ICLR]** Self-Supervised Learning is More ROBUST to Dataset Imbalance [[paper]](https://arxiv.org/abs/2110.05025) [[review]](https://github.com/junginkim23/Paper-Review/blob/master/JunginKim/Review/%5B2022%2CICLR%5D%20Self-Supervised%20Learning%20is%20More%20Robust%20to%20Dataset%20Imbalance.pdf)
 
 - **Semi-Supervised Learning**
-    - **[2019, NeurIPS]** MixMatch: A Holistic Approach to Semi-Supervised Learning [[paper]]() [[review]]()
+    - **[2019, NeurIPS]** MixMatch: A Holistic Approach to Semi-Supervised Learning [[paper]](https://proceedings.neurips.cc/paper/2019/hash/1cd138d0499a68f4bb72bee04bbec2d7-Abstract.html) [[review]](https://github.com/junginkim23/Paper-Review/blob/master/JunginKim/Review/%5B2019%2CNeurIPS%5D%20MixMatch_A%20Holistic%20Approach%20to%20Semi-Supervised%20Learning.pdf)
     - **[2020, Information Sciences]** PUMAD_PU Metric learning for anomaly detection [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025520302012) [[review]](https://github.com/junginkim23/Paper-Review/blob/master/JunginKim/Review/%5B2020%2C%20Information%20Sciences%5DPUMAD_PU%20Metric%20learning%20for%20anomaly%20detection.pdf)
 
 ---
