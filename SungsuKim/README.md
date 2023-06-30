@@ -14,6 +14,7 @@
 
 - **Self-supervised Learning**
     - **[2021, CVPR]** Exploring Simple Siamese Representation Learning [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.pdf) [[review]](https://github.com/junginkim23/Paper-Review/blob/master/SungsuKim/Review/%5B2021%5D%20Exploring%20Simple%20Siamese%20Representation%20Learning.pdf)
+    - **[2021, ICML]** Barlow Twins: Self-Supervised Learning via Redundancy Reduction [[paper]](http://proceedings.mlr.press/v139/zbontar21a/zbontar21a.pdf) [[review]](https://github.com/junginkim23/Paper-Review/blob/master/SungsuKim/Review/%5B2021%5D%20Barlow%20Twins-%20Self-Supervised%20Learning%20via%20Redundancy%20Reduction.pdf)
 
 - **Scene Text Recognition + Self-supervised Lerning**
     - **[2022, ACMMM]** Reading and Writing: Discriminative and Generative Modeling for Self-Supervised Text Recognition [[paper]](https://dl.acm.org/doi/pdf/10.1145/3503161.3547784) [[review]](https://github.com/junginkim23/Paper-Review/blob/master/SungsuKim/Review/%5B2022%5D%20Reading%20and%20Writing-%20Discriminative%20and%20Generative%20Modeling%20for%20Self-Supervised%20Text%20Recognition.pdf)
